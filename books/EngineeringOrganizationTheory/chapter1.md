@@ -26,7 +26,7 @@
 おわり
 「ハンバーグを食べたい」　→ 実現
 
-不確実性コーンの画像。
+[不確実性コーン](https://github.com/poppo4444/sandbox/blob/main/books/EngineeringOrganizationTheory/image/%E4%B8%8D%E7%A2%BA%E5%AE%9F%E6%80%A7%E3%82%B3%E3%83%BC%E3%83%B3.png)
 
 実現とは不確実な状態から確実な状態に持っていくこと。
 
@@ -42,7 +42,7 @@
 
 抽象的で自由度のある指示で動ける組織は、「不確実性」を「確実」なものに変えていける力を持ち、自己組織化されていると言える。
 
-マイクロマネジメント画像
+[マイクロマネジメント](https://github.com/poppo4444/sandbox/blob/main/books/EngineeringOrganizationTheory/image/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88.png)
 
 ### 「何が起こるかわからない」「ある程度わかる」の差
 
@@ -78,6 +78,8 @@
 減らすためには、「情報を生み出すこと」が「不確実性を下げること」つながる。
 
 エンジニアリングの本質は「不確実性の削減」
+
+[不安に向き合う](https://github.com/poppo4444/sandbox/blob/main/books/EngineeringOrganizationTheory/image/%E4%B8%8D%E5%AE%89%E3%81%AB%E5%90%91%E3%81%8D%E5%90%88%E3%81%86.png)
 
 ## 1-3. 情報を生み出す３つの考え方。
 
