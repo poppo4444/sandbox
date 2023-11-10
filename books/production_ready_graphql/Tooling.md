@@ -57,15 +57,14 @@ GraphQLのしばしば見過ごされがちな特徴の1つは、クライアン
 ```graphql
 mutation {
     createUser(
-      name: "REDACTED",
-      age: null,
-      profession: "REDACTED"
+      name: "John",
+      age: 30,
+      profession: "Engineer"
   ){
     name
     age
   }
 }
-```
 
 我々は全てのユーザーが提供したデータをプレースホルダの値、またはフィールドがnullableであればnullに置き換えることができます：
 
